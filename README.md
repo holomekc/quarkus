@@ -44,4 +44,3 @@ Interested in when the next release is coming? Check our [release planning](http
 
 The build instructions are available in the [contribution guide](CONTRIBUTING.md).
 
-
